@@ -1,0 +1,12 @@
+.t-center{
+    text-align: center;
+}
+
+.plus{
+    height: 13vh;
+}
+
+.bg-red{
+    background-color: rgb(76, 117, 93);
+    color: white;
+}
